@@ -1,0 +1,3 @@
+# Gyakorlás
+
+Dolgozók szelektálása
